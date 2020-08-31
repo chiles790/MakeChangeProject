@@ -1,14 +1,14 @@
 ## Make Change project
 
-### Overview
+### Cash Register
 
-This is where I'll put a summary of a Project
+The program I created uses if statements to determine if each type of currency is used and how much of each.
 
 ### Topics
   * Taking User Input
-  * Casting
-  * Methods
+  * If and else if statements
 
   ####  How to run
-  1. instructions
-  2. instructions
+  1. Provide the cost of the item you are purchasing
+  2. Put in tendered value
+  3. Program will display what change you will receive.
